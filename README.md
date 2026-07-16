@@ -67,19 +67,20 @@ I specialize in creating seamless user experiences with modern frontend technolo
 
 # 🚀 Featured Projects
 
-### 🔗 [KeenKeeper](https://hero-ass-07.vercel.app/)
+### 🔗 [ArtHub - Digital Art Marketplace](https://hero-ass-10.vercel.app)
 
-A personal relationship management application designed to help users stay connected with the people who matter most through organized relationship tracking and smart reminders.
+ArtHub is a modern online art marketplace where artists can showcase and sell their original artworks, while buyers can discover, purchase, and manage their art collections. The platform includes secure authentication, Stripe payment integration, role-based dashboards, artwork management, comments, analytics, and subscription features.
 
-**Tech Stack:** React.js • Tailwind CSS • Animation
+
+**Tech Stack:** Next.js •Tailwind CSS •Animation •Recharts •Express.js •MongoDB •Better Auth •JWT
 
 ---
 
-### 🔗 [SunCart – Summer Essentials Store](https://hero-ass-08-tau.vercel.app/)
+### 🔗 [🥭 MangoCart - Mango Review & Marketplace](https://mango-project-ten.vercel.app/)
 
-A modern eCommerce platform for seasonal products featuring secure authentication, product browsing, detailed product pages, and personalized user profiles.
+MangoCart is a full-stack web application where users can explore different mango varieties, view detailed information, read comments, and share their own mango reviews. Authenticated users can add new mango listings, manage their own mangoes, and interact with the community through comments.
 
-**Tech Stack:** Next.js  • MongoDB  • Tailwind CSS • React.js
+**Tech Stack:** Next.js •Tailwind CSS •Animation •TypeScript •Express.js •MongoDB •Better Auth •JWT
 
 ---
 
@@ -87,7 +88,7 @@ A modern eCommerce platform for seasonal products featuring secure authenticatio
 
 A full-stack startup idea sharing platform where users can publish innovative ideas, engage through comments, and manage their personal idea workspace securely.
 
-**Tech Stack:** Next.js  • Better Auth • Tailwind CSS • React.js
+**Tech Stack:** Next.js •Tailwind CSS •Animation •Express.js •MongoDB •Better Auth •JWT
 
 ---
 
