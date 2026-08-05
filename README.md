@@ -117,7 +117,7 @@ A full-stack startup idea sharing platform where users can publish innovative id
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=roescodynex89-sketch&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=roescodynex89-sketch&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Streak" />
 
 </div>
 
